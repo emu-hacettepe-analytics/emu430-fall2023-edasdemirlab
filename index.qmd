@@ -3,8 +3,16 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is Erdi Dasdemir.
+Hello! My name is Erdi Dasdemir. I am the course instructor.
 
 This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
+```{r}
+library(dslabs)
+data(na_example)
+na_example
+```
+```{r}
+sum(is.na(na_example)) 
+```
