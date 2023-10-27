@@ -3,7 +3,7 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is Erdi Dasdemir. I am the course instructor.
+Hello! My name is Erdi Dasdemir. I am the course instructor. Am I?
 
 This is my personal webpage.
 
