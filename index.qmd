@@ -8,11 +8,4 @@ Hello! My name is Erdi Dasdemir. I am the course instructor. Am I?
 This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
-```{r}
-library(dslabs)
-data(na_example)
-na_example
-```
-```{r}
-sum(is.na(na_example)) 
-```
+
